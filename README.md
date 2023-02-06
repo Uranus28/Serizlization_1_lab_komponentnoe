@@ -1,0 +1,2 @@
+# Serizlization_1_lab_komponentnoe
+Компонентное программирование Сериализация

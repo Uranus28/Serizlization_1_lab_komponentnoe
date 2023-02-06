@@ -1,0 +1,10 @@
+C:\Users\yuriy\source\Points\Points\PointLib\bin\Debug\PointLib.dll
+C:\Users\yuriy\source\Points\Points\PointLib\bin\Debug\PointLib.pdb
+C:\Users\yuriy\source\Points\Points\PointLib\bin\Debug\PointLib.xml
+C:\Users\yuriy\source\Points\Points\PointLib\obj\Debug\PointLib.vbproj.AssemblyReference.cache
+C:\Users\yuriy\source\Points\Points\PointLib\obj\Debug\PointLib.Resources.resources
+C:\Users\yuriy\source\Points\Points\PointLib\obj\Debug\PointLib.vbproj.GenerateResource.cache
+C:\Users\yuriy\source\Points\Points\PointLib\obj\Debug\PointLib.vbproj.CoreCompileInputs.cache
+C:\Users\yuriy\source\Points\Points\PointLib\obj\Debug\PointLib.dll
+C:\Users\yuriy\source\Points\Points\PointLib\obj\Debug\PointLib.xml
+C:\Users\yuriy\source\Points\Points\PointLib\obj\Debug\PointLib.pdb
